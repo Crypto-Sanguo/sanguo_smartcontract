@@ -1,0 +1,112 @@
+{
+    "lang": "javascript",
+    "version": "1.0.0",
+    "abi": [
+        {
+            "name": "debugFixQueue",
+            "args": [],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "setBattle",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "setUnitManager",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "setTreasureManager",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "can_update",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "setEpic",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "setAward",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "setInformation",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "startNewBoss",
+            "args": [],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "getAllEpicStatus",
+            "args": [],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "saveBattle",
+            "args": [
+                "string",
+                "string",
+                "string",
+                "string",
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "queueForBattle",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "debugQuickFix",
+            "args": [],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "execute",
+            "args": [],
+            "amountLimit": [],
+            "description": ""
+        }
+    ]
+}

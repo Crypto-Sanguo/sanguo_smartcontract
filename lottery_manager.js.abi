@@ -1,0 +1,149 @@
+{
+    "lang": "javascript",
+    "version": "1.0.0",
+    "abi": [
+        {
+            "name": "can_update",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "setTreasureManager",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "setUnitManager",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "setItemManager",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "setBadLuckStore",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "setBadLuck",
+            "args": [
+                "string",
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "addTickets",
+            "args": [
+                "string",
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "addLotteryUnits",
+            "args": [
+                "string",
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "addLotteryItems",
+            "args": [
+                "string",
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "drawUnit",
+            "args": [
+                "string",
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "buyUnitWithBadLuck",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "buyItemWithBadLuck",
+            "args": [
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "drawWithTicket",
+            "args": [],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "drawWithIOST",
+            "args": [],
+            "amountLimit": [{
+                "token": "iost",
+                "val": "unlimited"
+            }],
+            "description": ""
+        },
+        {
+            "name": "fillList",
+            "args": [],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "debugFixResults",
+            "args": [],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "processOneXmaxQueue",
+            "args": [],
+            "amountLimit": [],
+            "description": ""
+        },
+        {
+            "name": "debugMoveAccount",
+            "args": [
+                "string",
+                "string"
+            ],
+            "amountLimit": [],
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,730 @@
+1 // Mu
+
+{
+  "isMountable": 0,
+  "worth": 16
+}
+
+
+
+2 // Bu
+
+{
+  "isMountable": 0,
+  "worth": 18
+}
+
+
+
+3 // Pi
+
+{
+  "isMountable": 0,
+  "worth": 20
+}
+
+
+
+4 // Tie
+
+{
+  "isMountable": 0,
+  "worth": 22
+}
+
+
+
+5 // Mu Gun
+
+{
+  "attack": 6,
+  "positionIndex": 0,
+  "isMountable": 1,
+  "worth": 48,
+  "components": [{
+    "itemId": 1,
+    "count": 3
+  }]
+}
+
+
+
+6 // Mu Dun
+
+{
+  "defense": 10,
+  "positionIndex": 1,
+  "isMountable": 1,
+  "worth": 50,
+  "components": [{
+    "itemId": 1,
+    "count": 2
+  }, {
+    "itemId": 2,
+    "count": 1
+  }]
+}
+
+
+
+7 // Bu Fu
+
+{
+  "defense": 6,
+  "agility": 10,
+  "positionIndex": 1,
+  "isMountable": 1,
+  "worth": 60,
+  "components": [{
+    "itemId": 2,
+    "count": 3
+  }]
+}
+
+
+
+8 // Tie jian
+
+{
+  "attack": 10,
+  "positionIndex": 0,
+  "isMountable": 1,
+  "worth": 66,
+  "components": [{
+    "itemId": 4,
+    "count": 2
+  }]
+}
+
+
+
+9 // She Mao
+
+{
+  "attack": 18,
+  "agility": 2,
+  "positionIndex": 0,
+  "isMountable": 1,
+  "worth": 76,
+  "components": [{
+    "itemId": 4,
+    "count": 2
+  }, {
+    "itemId": 1,
+    "count": 2
+  }]
+}
+
+
+
+10 // Hu Xin Jing
+
+{
+  "hp": 20,
+  "defense": 16,
+  "positionIndex": 1,
+  "isMountable": 1,
+  "worth": 78,
+  "components": [{
+    "itemId": 20,
+    "count": 1
+  },{
+    "itemId": 25,
+    "count": 1
+  }, {
+    "itemId": 2,
+    "count": 1
+  }]
+}
+
+
+
+11 // Yin Zhou 
+
+{
+  "defense": 20,
+  "agility": 2,
+  "luck": 2,
+  "positionIndex": 1,
+  "isMountable": 1,
+  "worth": 94, 
+  "components": [{
+    "itemId": 20,
+    "count": 1
+  }, {
+    "itemId": 2,
+    "count": 3
+  }]
+}
+
+
+
+12 // Han Bing Jian 
+
+
+{
+  "attack": 20,
+  "intelligence": 10,
+  "defense": 8,
+  "positionIndex": 0,
+  "isMountable": 1,
+  "worth": 98,
+  "components": [{
+    "itemId": 4,
+    "count": 2
+  }, {
+    "itemId": 20,
+    "count": 1
+  }, {
+    "itemId": 2,
+    "count": 1
+  }]
+}
+
+
+13 // Tai Ping Yao Shu
+
+{
+  "intelligence": 20,
+  "agility": 5,
+  "positionIndex": 2,
+  "isMountable": 1,
+  "worth": 100,
+  "components": [{
+    "itemId": 1,
+    "count": 4
+  }, {
+    "itemId": 2,
+    "count": 2
+  }]
+}
+
+
+
+14 // Fang Tian Hua Ji
+
+{
+  \"attack\": 22,
+  \"intelligence\": 6,
+  \"agilityS\": 18,
+  \"intelligenceS\": 6,
+  \"unitIdS\": [21],
+  \"positionIndex\": 0,
+  \"isMountable\": 1,
+  \"worth\": 154,
+  \"components\": [{
+    \"itemId\": 1,
+    \"count\": 2
+  }, {
+    \"itemId\": 4,
+    \"count\": 2
+  }, {
+    \"itemId\": 25,
+    \"count\": 2
+  }, {
+    \"itemId\": 24,
+    \"count\": 2
+  }]
+}
+
+20 // Yin
+{
+  "isMountable": 0,
+  "worth": 40
+}
+
+21 // Jing
+{
+  "isMountable": 0,
+  "worth": 50
+}
+
+22 // Xiang Ya
+{
+  "isMountable": 0,
+  "worth": 32
+}
+
+23 // Lv bao Shi
+{
+  "isMountable": 0,
+  "worth": 42
+
+}
+
+24 // Xuan Tie
+{
+  "isMountable": 0,
+  "worth": 55
+}
+
+25 // Qing Tong 
+{
+  "isMountable": 0,
+  "worth": 30
+}
+
+26 // Shou Gu
+{
+  "isMountable": 0,
+  "worth": 40
+}
+
+
+27 // Xi Jiao
+{
+  \"isMountable\": 0,
+  \"worth\": 40
+}
+
+
+28 // Zhen Zhu
+{
+  \"isMountable\": 0,
+  \"worth\": 40
+}
+
+
+29 // Yu Mao
+{
+  \"isMountable\": 0,
+  \"worth\": 40
+}
+
+
+
+100 // Mu Jian
+{
+  "attack": 9,
+  "positionIndex": 0,
+  "isMountable": 1,
+  "worth": 64,
+  "components": [{
+    "itemId": 1,
+    "count": 4
+  }]
+}
+
+101 // Zhan Gu
+{
+  "attack": 4,
+  "agility": 3,
+  "positionIndex": 2,
+  "isMountable": 1,
+  "worth": 76,
+  "components": [{
+    "itemId": 2,
+    "count": 2
+  }, {
+    "itemId": 3,
+    "count": 2
+  }]
+}
+
+102 // Tou Jin
+{
+  "defense": 15,
+  "agility": 5,
+  "positionIndex": 3,
+  "isMountable": 1,
+  "worth": 40,
+  "components": [{
+    "itemId": 2,
+    "count": 3
+  }, {
+    "itemId": 3,
+    "count": 1
+  }]
+}
+
+103 // Xiao Fu
+{
+  "attack": 16,
+  "agility": 5,
+  "positionIndex": 0,
+  "isMountable": 1,
+  "worth": 54,
+  "components": [{
+    "itemId": 1,
+    "count": 2
+  }, {
+    "itemId": 4,
+    "count": 2
+  }]
+}
+
+104 // Yao Dai
+{
+  "defense": 12,
+  "agility": 3,
+  "positionIndex": 1,
+  "isMountable": 1,
+  "worth": 56,
+  "components": [{
+    "itemId": 2,
+    "count": 2
+  }, {
+    "itemId": 3,
+    "count": 1
+  }]
+}
+
+105 // Zhan Pao
+{
+  "defense": 20,
+  "positionIndex": 1,
+  "isMountable": 1,
+  "worth": 76,
+  "components": [{
+    "itemId": 2,
+    "count": 2
+  }, {
+    "itemId": 3,
+    "count": 2
+  }]
+}
+
+106 // Guan Shi Fu
+{
+  "attack": 25,
+  "defense": 10,
+  "positionIndex": 0,
+  "isMountable": 1,
+  "worth": 96,
+  "components": [{
+    "itemId": 25,
+    "count": 1
+  }, {
+    "itemId": 4,
+    "count": 3
+  }]
+}
+
+107 // Gu Ding Dao
+{
+  "attack": 20,
+  "agility": 15,
+  "positionIndex": 0,
+  "isMountable": 1,
+  "worth": 98,
+  "components": [{
+    "itemId": 1,
+    "count": 2
+  }, {
+    "itemId": 22,
+    "count": 1
+  }, {
+    "itemId": 4,
+    "count": 2
+  }]
+}
+
+108 // Liu Yun Gong
+{
+  "attack": 18,
+  "intelligence": 8,
+  "agility": 15,
+  "positionIndex": 0,
+  "isMountable": 1,
+  "worth": 102,
+  "components": [{
+    "itemId": 1,
+    "count": 3
+  }, {
+    "itemId": 20,
+    "count": 1
+  }, {
+    "itemId": 4,
+    "count": 2
+  }]
+}
+
+109 // Qing Jiang Jian
+{
+  \"attack\": 25,
+  \"agility\": 10,
+  \"defenseS\": 10,
+  \"hpS\": 10,
+  \"unitIdS\": [20, 29],
+  \"positionIndex\": 0,
+  \"isMountable\": 1,
+  \"worth\": 96,
+  \"components\": [{
+    \"itemId\": 1,
+    \"count\": 2
+  }, {
+    \"itemId\": 20,
+    \"count\": 1
+  }, {
+    \"itemId\": 23,
+    \"count\": 2
+  }, {
+    \"itemId\": 25,
+    \"count\": 1
+  },{
+    \"itemId\": 24,
+    \"count\": 1
+  }]
+}
+
+110 // Qing Long Yan Yue Dao
+{
+  \"attack\": 28,
+  \"agilityS\": 15,
+  \"intelligenceS\": 8,
+  \"hpS\": 5,
+  \"unitIdS\": [1],
+  \"positionIndex\": 0,
+  \"isMountable\": 1,
+  \"worth\": 139,
+  \"components\": [{
+    \"itemId\": 20,
+    \"count\": 1
+  }, {
+    \"itemId\": 21,
+    \"count\": 1
+  }, {
+    \"itemId\": 22,
+    \"count\": 1
+  }, {
+    \"itemId\": 23,
+    \"count\": 2
+  }, {
+    \"itemId\": 24,
+    \"count\": 1
+  }]
+}
+
+111 // Dao Fu
+{
+  "positionIndex": 0,
+  "isMountable": 0,
+  "worth": 68,
+  "components": [{
+    "itemId": 20,
+    "count": 1
+  },
+    "itemId": 21,
+    "count": 1
+  }, {
+    "itemId": 22,
+    "count": 2
+  }]
+}
+
+112 // Ba Gua Fu
+{
+  "isMountable": 0,
+  "worth": 76,
+  "components": [{
+    "itemId": 1,
+    "count": 2
+  },{
+    "itemId": 2,
+    "count": 2
+  }, {
+    "itemId": 3,
+    "count": 2
+  }, {
+    "itemId": 4,
+    "count": 2
+  }]
+}
+
+113 // Fei Cui Jin Nang
+{
+  \"positionIndex\": 0,
+  \"isMountable\": 0,
+  \"worth\": 78,
+  \"components\": [{
+    \"itemId\": 2,
+    \"count\": 2
+  }, {
+    \"itemId\": 23,
+    \"count\": 1
+  }]
+}
+
+114 // Jin Se Jin nang
+{
+  \"hp\": 10,
+  \"positionIndex\": 0,
+  \"isMountable\": 0,
+  \"worth\": 86,
+  \"components\": [{
+    \"itemId\": 2,
+    \"count\": 2
+  }, {
+    \"itemId\": 21,
+    \"count\": 1
+  }]
+}
+
+115 //  Sun Zi Bing Fa
+{
+  "hp": 5,
+  "attack": 6,
+  "intelligence": 6,
+  "defense": 5,
+  "agility": 5,
+  "positionIndex": 2,
+  "isMountable": 1,
+  "worth": 152,
+  "components": [{
+    "itemId": 2,
+    "count": 4
+  }, {
+    "itemId": 3,
+    "count": 4
+  }]
+}
+
+117 // Meng De Xin Shu 
+{
+  "luck": 8,
+  "intelligence": 8,
+  "positionIndex": 2,
+  "isMountable": 1,
+  "worth": 82,
+  "components": [{
+    "itemId": 1,
+    "count": 4
+  }, {
+    "itemId": 2,
+    "count": 1
+  }]
+}
+
+118 // Luan Shi Tou Kui
+{
+  "defense": 15,
+  "agility": 8,
+  "positionIndex": 3,
+  "isMountable": 1,
+  "worth": 86,
+  "components": [{
+    "itemId": 1,
+    "count": 2
+  }, {
+    "itemId": 2,
+    "count": 3
+  }, {
+    "itemId": 4,
+    "count": 1
+  }]
+}
+
+119 // Fei Long Tou Kui
+{
+  "defense": 15,
+  "intelligence": 15,
+  "hp": 15,
+  "positionIndex": 3,
+  "isMountable": 1,
+  "worth": 91,
+  "components": [{
+    "itemId": 2,
+    "count": 2
+  }, {
+    "itemId": 4,
+    "count": 1
+  }, {
+    "itemId": 23,
+    "count": 1
+  }]
+}
+
+120 // Huo Shen Tou Kui
+{
+  \"defense\": 22,
+  \"intelligence\": 15,
+  \"hp\": 15,
+  \"agility\": 2,
+  \"positionIndex\": 3,
+  \"isMountable\": 1,
+  \"worth\": 124,
+  \"components\": [{
+    \"itemId\": 21,
+    \"count\": 1
+  }, {
+    \"itemId\": 25,
+    \"count\": 1
+  }, {
+    \"itemId\": 26,
+    \"count\": 1
+  }, {
+    \"itemId\": 24,
+    \"count\": 1
+  }, {
+    \"itemId\": 23,
+    \"count\": 2
+  }]
+}
+
+121 // Zhan Shi Kui Jia
+{
+  \"defense\": 30,
+  \"hp\": 20,
+  \"positionIndex\": 1,
+  \"isMountable\": 1,
+  \"worth\": 92,
+  \"components\": [{
+    \"itemId\": 4,
+    \"count\": 2
+  }, {
+    \"itemId\": 20,
+    \"count\": 1
+  }, {
+    \"itemId\": 27,
+    \"count\": 1
+  }, {
+    \"itemId\": 23,
+    \"count\": 1
+  }, {
+    \"itemId\": 24,
+    \"count\": 1
+  }]
+}
+
+122 // Jin Yu Kai Jia
+{
+  "defense": 24,
+  "luck": 8,
+  "positionIndex": 1,
+  "isMountable": 1,
+  "worth": 116,
+  "components": [{
+    "itemId": 4,
+    "count": 3
+  }, {
+    "itemId": 21,
+    "count": 1
+  }]
+}
+
+123 // Zheng Long Kui Jia
+{
+  \"defense\": 25,
+  \"attack\": 20,
+  \"positionIndex\": 1,
+  \"isMountable\": 1,
+  \"worth\": 139,
+  \"components\": [{
+    \"itemId\": 26,
+    \"count\": 2
+  }, {
+    \"itemId\": 27,
+    \"count\": 2
+  }, {
+    \"itemId\": 28,
+    \"count\": 2
+  }, {
+    \"itemId\": 23,
+    \"count\": 2
+  }, {
+    \"itemId\": 24,
+    \"count\": 1
+  }]
+}
+
+

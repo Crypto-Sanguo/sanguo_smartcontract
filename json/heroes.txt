@@ -1,0 +1,1015 @@
+
+1 // Guan Yu
+
+{
+  \"hp\": 100,
+  \"hpStep\": 10,
+  \"attack\": 90,
+  \"attackStep\": 9,
+  \"intelligence\": 65,
+  \"intelligenceStep\": 6,
+  \"defense\": 70,
+  \"defenseStep\": 9,
+  \"agility\": 60,
+  \"agilityStep\": 6,
+  \"luck\": 77,
+  \"luckStep\": 1,
+  \"recoverCost\": 30,
+  \"upgradeCost\": 100,
+  \"price\": 1000,
+  \"priceStep\": 15
+}
+
+[1, 100, 10, 90, 9, 65, 6, 70, 9, 60, 6, 77, 1, 3, 100, 100, 3]
+  \"  \"  price: u64,
+  \"  \"  priceStep: u64)
+
+2  // Zhang Fei
+
+{
+  \"hp\": 100,
+  \"hpStep\": 10,
+  \"attack\": 92,
+  \"attackStep\": 9,
+  \"intelligence\": 60,
+  \"intelligenceStep\": 6,
+  \"defense\": 75,
+  \"defenseStep\": 9,
+  \"agility\": 50,
+  \"agilityStep\": 5,
+  \"luck\": 73,
+  \"luckStep\": 1,
+  \"recoverCost\": 30,
+  \"upgradeCost\": 100,
+  \"price\": 1000,
+  \"priceStep\": 15
+}
+[2, 100, 10, 92, 9, 60, 6, 75, 9, 50, 5, 73, 1, 3, 100, 100, 3]
+
+3  // Dian Wei
+
+{
+  \"hp\": 100,
+  \"hpStep\": 10,
+  \"attack\": 94,
+  \"attackStep\": 9,
+  \"intelligence\": 50,
+  \"intelligenceStep\": 5,
+  \"defense\": 73,
+  \"defenseStep\": 9,
+  \"agility\": 60,
+  \"agilityStep\": 6,
+  \"luck\": 70,
+  \"luckStep\": 1,
+  \"recoverCost\": 30,
+  \"upgradeCost\": 100,
+  \"price\": 1000,
+  \"priceStep\": 15
+}
+
+4  // Xiahou Dun
+
+{
+  \"hp\": 110,
+  \"hpStep\": 10,
+  \"attack\": 88,
+  \"attackStep\": 8,
+  \"intelligence\": 50,
+  \"intelligenceStep\": 5,
+  \"defense\": 75,
+  \"defenseStep\": 10,
+  \"agility\": 55,
+  \"agilityStep\": 5,
+  \"luck\": 82,
+  \"luckStep\": 1,
+  \"recoverCost\": 20,
+  \"upgradeCost\": 96,
+  \"price\": 1000,
+  \"priceStep\": 15
+}
+
+
+5: Taishi Ci
+
+\"hp\": 100,
+\"hpStep\": 9,
+\"attack\": 85,
+\"attackStep\": 8,
+\"intelligence\": 55,
+\"intelligenceStep\": 5,
+\"defense\": 75,
+\"defenseStep\": 8,
+\"agility\": 55,
+\"agilityStep\": 5,
+\"luck\": 86,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 90,
+\"price\": 1000,
+\"priceStep\": 30
+\"price\": 1000,
+\"priceStep\": 15
+
+'["5","{ \"hp\": 100, \"hpStep\": 9, \"attack\": 85, \"attackStep\": 8, \"intelligence\": 55, \"intelligenceStep\": 5, \"defense\": 75, \"defenseStep\": 8, \"agility\": 55, \"agilityStep\": 5, \"luck\": 86, \"luckStep\": 1, \"recoverCost\": 9, \"upgradeCost\": 90, \"price\": 1000, \"priceStep\": 30 }"]'
+
+
+6: Sun Jian
+{
+\"hp\": 95,
+\"hpStep\": 9,
+\"attack\": 87,
+\"attackStep\": 8,
+\"intelligence\": 55,
+\"intelligenceStep\": 6,
+\"defense\": 70,
+\"defenseStep\": 7,
+\"agility\": 60,
+\"agilityStep\": 6,
+\"luck\": 74,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 90,
+\"price\": 1000,
+\"priceStep\": 15
+}
+
+'["6","{ \"hp\": 95, \"hpStep\": 9, \"attack\": 87, \"attackStep\": 8, \"intelligence\": 55, \"intelligenceStep\": 6, \"defense\": 70, \"defenseStep\": 7, \"agility\": 60, \"agilityStep\": 6, \"luck\": 74, \"luckStep\": 1, \"recoverCost\": 9, \"upgradeCost\": 90, \"price\": 1000, \"priceStep\": 30 }"]'
+
+
+7: Gan Ning
+{
+\"hp\": 90,
+\"hpStep\": 8,
+\"attack\": 84,
+\"attackStep\": 8,
+\"intelligence\": 55,
+\"intelligenceStep\": 5,
+\"defense\": 70,
+\"defenseStep\": 7,
+\"agility\": 50,
+\"agilityStep\": 5,
+\"luck\": 85,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 90,
+\"price\": 1000,
+\"priceStep\": 15
+}
+'["7","{ \"hp\": 90, \"hpStep\": 8, \"attack\": 84, \"attackStep\": 8, \"intelligence\": 55, \"intelligenceStep\": 5, \"defense\": 70, \"defenseStep\": 7, \"agility\": 50, \"agilityStep\": 5, \"luck\": 85, \"luckStep\": 1, \"recoverCost\": 8, \"upgradeCost\": 80, \"price\": 1000, \"priceStep\": 30 }"]'
+
+
+8: Jian Yong
+{
+\"hp\": 90,
+\"hpStep\": 8,
+\"attack\": 60,
+\"attackStep\": 6,
+\"intelligence\": 85,
+\"intelligenceStep\": 8,
+\"defense\": 70,
+\"defenseStep\": 7,
+\"agility\": 60,
+\"agilityStep\": 6,
+\"luck\": 87,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 85,
+\"price\": 1000,
+\"priceStep\": 15
+}
+'["8","{ \"hp\": 90, \"hpStep\": 8, \"attack\": 60, \"attackStep\": 6, \"intelligence\": 85, \"intelligenceStep\": 8, \"defense\": 70, \"defenseStep\": 7, \"agility\": 60, \"agilityStep\": 6, \"luck\": 87, \"luckStep\": 1, \"recoverCost\": 8, \"upgradeCost\": 85, \"price\": 1000, \"priceStep\": 30 }"]'
+
+
+9: Xun Yu
+{
+\"hp\": 95,
+\"hpStep\": 9,
+\"attack\": 50,
+\"attackStep\": 5,
+\"intelligence\": 88,
+\"intelligenceStep\": 8,
+\"defense\": 72,
+\"defenseStep\": 7,
+\"agility\": 62,
+\"agilityStep\": 6,
+\"luck\": 82,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 85,
+\"price\": 1000,
+\"priceStep\": 15
+}
+'["9","{ \"hp\": 95, \"hpStep\": 9, \"attack\": 50, \"attackStep\": 5, \"intelligence\": 88, \"intelligenceStep\": 8, \"defense\": 72, \"defenseStep\": 7, \"agility\": 62, \"agilityStep\": 6, \"luck\": 82, \"luckStep\": 1, \"recoverCost\": 8, \"upgradeCost\": 85, \"price\": 1000, \"priceStep\": 30 }"]'
+
+
+10: Guo Jia
+{
+\"hp\": 90,
+\"hpStep\": 9,
+\"attack\": 50,
+\"attackStep\": 5,
+\"intelligence\": 95,
+\"intelligenceStep\": 9,
+\"defense\": 72,
+\"defenseStep\": 7,
+\"agility\": 62,
+\"agilityStep\": 6,
+\"luck\": 80,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"price\": 1000,
+\"priceStep\": 15
+}
+'["10","{ \"hp\": 90, \"hpStep\": 9, \"attack\": 50, \"attackStep\": 5, \"intelligence\": 95, \"intelligenceStep\": 9, \"defense\": 72, \"defenseStep\": 7, \"agility\": 62, \"agilityStep\": 6, \"luck\": 80, \"luckStep\": 1, \"recoverCost\": 10, \"upgradeCost\": 100, \"price\": 1000, \"priceStep\": 30 }"]'
+
+11: Chen Gong
+{
+\"hp\": 90,
+\"hpStep\": 9,
+\"attack\": 50,
+\"attackStep\": 5,
+\"intelligence\": 95,
+\"intelligenceStep\": 9,
+\"defense\": 72,
+\"defenseStep\": 7,
+\"agility\": 62,
+\"agilityStep\": 6,
+\"luck\": 78,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 95,
+\"price\": 1000,
+\"priceStep\": 15
+}
+'["11","{ \"hp\": 90, \"hpStep\": 9, \"attack\": 50, \"attackStep\": 5, \"intelligence\": 95, \"intelligenceStep\": 9, \"defense\": 72, \"defenseStep\": 7, \"agility\": 62, \"agilityStep\": 6, \"luck\": 78, \"luckStep\": 1, \"recoverCost\": 10, \"upgradeCost\": 100, \"price\": 1000, \"priceStep\": 30 }"]'
+
+
+12: Cheng Zhiyuan
+{
+\"hp\": 90,
+\"hpStep\": 9,
+\"attack\": 80,
+\"attackStep\": 8,
+\"intelligence\": 50,
+\"intelligenceStep\": 5,
+\"defense\": 80,
+\"defenseStep\": 8,
+\"agility\": 50,
+\"agilityStep\": 5,
+\"luck\": 70,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"price\": 1000,
+\"priceStep\": 15
+}
+'["12","{ \"hp\": 90, \"hpStep\": 9, \"attack\": 80, \"attackStep\": 8, \"intelligence\": 50, \"intelligenceStep\": 5, \"defense\": 80, \"defenseStep\": 8, \"agility\": 50, \"agilityStep\": 5, \"luck\": 70, \"luckStep\": 1, \"recoverCost\": 10, \"upgradeCost\": 100, \"price\": 1000, \"priceStep\": 30 }"]'
+
+13: Zhao Hong
+{
+\"hp\": 90,
+\"hpStep\": 9,
+\"attack\": 80,
+\"attackStep\": 8,
+\"intelligence\": 50,
+\"intelligenceStep\": 5,
+\"defense\": 80,
+\"defenseStep\": 8,
+\"agility\": 50,
+\"agilityStep\": 5,
+\"luck\": 70,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"price\": 1000,
+\"priceStep\": 15
+}
+'["13","{ \"hp\": 90, \"hpStep\": 9, \"attack\": 80, \"attackStep\": 8, \"intelligence\": 50, \"intelligenceStep\": 5, \"defense\": 80, \"defenseStep\": 8, \"agility\": 50, \"agilityStep\": 5, \"luck\": 70, \"luckStep\": 1, \"recoverCost\": 10, \"upgradeCost\": 100, \"price\": 1000, \"priceStep\": 30 }"]'
+
+14: Guan Hai
+{
+\"hp\": 90,
+\"hpStep\": 9,
+\"attack\": 80,
+\"attackStep\": 8,
+\"intelligence\": 50,
+\"intelligenceStep\": 5,
+\"defense\": 80,
+\"defenseStep\": 8,
+\"agility\": 50,
+\"agilityStep\": 5,
+\"luck\": 70,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"price\": 1000,
+\"priceStep\": 15
+}
+'["14","{ \"hp\": 90, \"hpStep\": 9, \"attack\": 80, \"attackStep\": 8, \"intelligence\": 50, \"intelligenceStep\": 5, \"defense\": 80, \"defenseStep\": 8, \"agility\": 50, \"agilityStep\": 5, \"luck\": 70, \"luckStep\": 1, \"recoverCost\": 10, \"upgradeCost\": 100, \"price\": 1000, \"priceStep\": 30 }"]'
+
+15: Zhang Liang
+{
+\"hp\": 90,
+\"hpStep\": 9,
+\"attack\": 80,
+\"attackStep\": 8,
+\"intelligence\": 50,
+\"intelligenceStep\": 5,
+\"defense\": 80,
+\"defenseStep\": 8,
+\"agility\": 50,
+\"agilityStep\": 5,
+\"luck\": 70,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"price\": 1000,
+\"priceStep\": 15
+}
+'["15","{ \"hp\": 90, \"hpStep\": 9, \"attack\": 80, \"attackStep\": 8, \"intelligence\": 50, \"intelligenceStep\": 5, \"defense\": 80, \"defenseStep\": 8, \"agility\": 50, \"agilityStep\": 5, \"luck\": 70, \"luckStep\": 1, \"recoverCost\": 10, \"upgradeCost\": 100, \"price\": 1000, \"priceStep\": 30 }"]'
+
+16: Zhang Bao
+{
+\"hp\": 90,
+\"hpStep\": 9,
+\"attack\": 80,
+\"attackStep\": 8,
+\"intelligence\": 50,
+\"intelligenceStep\": 5,
+\"defense\": 80,
+\"defenseStep\": 8,
+\"agility\": 50,
+\"agilityStep\": 5,
+\"luck\": 70,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"price\": 1000,
+\"priceStep\": 15
+}
+'["16","{ \"hp\": 90, \"hpStep\": 9, \"attack\": 80, \"attackStep\": 8, \"intelligence\": 50, \"intelligenceStep\": 5, \"defense\": 80, \"defenseStep\": 8, \"agility\": 50, \"agilityStep\": 5, \"luck\": 70, \"luckStep\": 1, \"recoverCost\": 10, \"upgradeCost\": 100, \"price\": 1000, \"priceStep\": 30 }"]'
+
+17: Zhang Jiao
+{
+\"hp\": 90,
+\"hpStep\": 9,
+\"attack\": 80,
+\"attackStep\": 8,
+\"intelligence\": 50,
+\"intelligenceStep\": 5,
+\"defense\": 80,
+\"defenseStep\": 8,
+\"agility\": 50,
+\"agilityStep\": 5,
+\"luck\": 70,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"price\": 1000,
+\"priceStep\": 15
+}
+'["17","{ \"hp\": 90, \"hpStep\": 9, \"attack\": 80, \"attackStep\": 8, \"intelligence\": 50, \"intelligenceStep\": 5, \"defense\": 80, \"defenseStep\": 8, \"agility\": 50, \"agilityStep\": 5, \"luck\": 70, \"luckStep\": 1, \"recoverCost\": 10, \"upgradeCost\": 100, \"price\": 1000, \"priceStep\": 30 }"]'
+
+
+19. Liu Bei
+
+{
+\"hp\": 110,
+\"hpStep\": 10,
+\"attack\": 70,
+\"attackStep\": 10,
+\"intelligence\": 88,
+\"intelligenceStep\": 10,
+\"defense\": 80,
+\"defenseStep\": 8,
+\"agility\": 50,
+\"agilityStep\": 6,
+\"luck\": 90,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 110,
+\"notForSale\": 1
+}
+
+20. Cao Cao
+
+{
+\"hp\": 110,
+\"hpStep\": 10,
+\"attack\": 80,
+\"attackStep\": 10,
+\"intelligence\": 80,
+\"intelligenceStep\": 9,
+\"defense\": 80,
+\"defenseStep\": 8,
+\"agility\": 50,
+\"agilityStep\": 6,
+\"luck\": 86,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 110,
+\"notForSale\": 1
+}
+
+21. Lv Bu
+
+{
+\"hp\": 100,
+\"hpStep\": 10,
+\"attack\": 100,
+\"attackStep\": 10,
+\"intelligence\": 50,
+\"intelligenceStep\": 5,
+\"defense\": 85,
+\"defenseStep\": 9,
+\"agility\": 45,
+\"agilityStep\": 5,
+\"luck\": 66,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 110,
+\"notForSale\": 1
+}
+
+22. Han bing
+{
+\"hp\": 95,
+\"hpStep\": 9,
+\"attack\": 60,
+\"attackStep\": 5,
+\"intelligence\": 88,
+\"intelligenceStep\": 8,
+\"defense\": 72,
+\"defenseStep\": 8,
+\"agility\": 62,
+\"agilityStep\": 6,
+\"luck\": 82,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 85,
+\"notForSale\": 1
+}
+
+23. Hua Xiong
+{
+\"hp\": 100,
+\"hpStep\": 9,
+\"attack\": 90,
+\"attackStep\": 5,
+\"intelligence\": 88,
+\"intelligenceStep\": 8,
+\"defense\": 80,
+\"defenseStep\": 8,
+\"agility\": 70,
+\"agilityStep\": 6,
+\"luck\": 82,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 85,
+\"notForSale\": 1
+}
+
+24. Li Jue
+{
+\"hp\": 100,
+\"hpStep\": 9,
+\"attack\": 100,
+\"attackStep\": 5,
+\"intelligence\": 88,
+\"intelligenceStep\": 8,
+\"defense\": 80,
+\"defenseStep\": 7,
+\"agility\": 70,
+\"agilityStep\": 6,
+\"luck\": 82,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 85,
+\"notForSale\": 1
+}
+
+25. Guo Si
+{
+\"hp\": 100,
+\"hpStep\": 9,
+\"attack\": 100,
+\"attackStep\": 5,
+\"intelligence\": 88,
+\"intelligenceStep\": 8,
+\"defense\": 80,
+\"defenseStep\": 7,
+\"agility\": 70,
+\"agilityStep\": 6,
+\"luck\": 82,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 85,
+\"notForSale\": 1
+}
+
+26. Jia Xu
+{
+\"hp\": 100,
+\"hpStep\": 9,
+\"attack\": 100,
+\"attackStep\": 5,
+\"intelligence\": 88,
+\"intelligenceStep\": 8,
+\"defense\": 80,
+\"defenseStep\": 7,
+\"agility\": 70,
+\"agilityStep\": 6,
+\"luck\": 82,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 85,
+\"notForSale\": 1
+}
+
+27 Dong Zhuo
+
+{
+\"hp\": 100,
+\"hpStep\": 9,
+\"attack\": 100,
+\"attackStep\": 5,
+\"intelligence\": 88,
+\"intelligenceStep\": 8,
+\"defense\": 80,
+\"defenseStep\": 7,
+\"agility\": 70,
+\"agilityStep\": 6,
+\"luck\": 82,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 85,
+\"notForSale\": 1
+}
+
+28 Xu Chu
+
+{
+\"hp\": 100,
+\"hpStep\": 9,
+\"attack\": 100,
+\"attackStep\": 9,
+\"intelligence\": 55,
+\"intelligenceStep\": 5,
+\"defense\": 85,
+\"defenseStep\": 8,
+\"agility\": 50,
+\"agilityStep\": 5,
+\"luck\": 84,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"price\": 2000,
+\"priceStep\": 5
+}
+
+29 Zhao Yun
+
+{
+\"hp\": 90,
+\"hpStep\": 9,
+\"attack\": 102,
+\"attackStep\": 9,
+\"intelligence\": 70,
+\"intelligenceStep\": 7,
+\"defense\": 80,
+\"defenseStep\": 8,
+\"agility\": 60,
+\"agilityStep\": 6,
+\"luck\": 86,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"price\": 2000,
+\"priceStep\": 5
+}
+
+
+30 Sun Shang Xiang
+
+{
+\"hp\": 90,
+\"hpStep\": 9,
+\"attack\": 95,
+\"attackStep\": 9,
+\"intelligence\": 85,
+\"intelligenceStep\": 8,
+\"defense\": 70,
+\"defenseStep\": 7,
+\"agility\": 80,
+\"agilityStep\": 8,
+\"luck\": 90,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"notForSale\": 1
+}
+
+
+31 Zhou Yu
+
+{
+\"hp\": 90,
+\"hpStep\": 9,
+\"attack\": 70,
+\"attackStep\": 7,
+\"intelligence\": 100,
+\"intelligenceStep\": 9,
+\"defense\": 70,
+\"defenseStep\": 7,
+\"agility\": 80,
+\"agilityStep\": 8,
+\"luck\": 80,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"notForSale\": 1
+}
+
+32 Xu Huang
+
+{
+\"hp\": 85,
+\"hpStep\": 9,
+\"attack\": 85,
+\"attackStep\": 9,
+\"intelligence\": 77,
+\"intelligenceStep\": 7,
+\"defense\": 75,
+\"defenseStep\": 7,
+\"agility\": 70,
+\"agilityStep\": 7,
+\"luck\": 80,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"notForSale\": 1
+}
+
+33 Diao Chan
+
+{
+\"hp\": 90,
+\"hpStep\": 8,
+\"attack\": 80,
+\"attackStep\": 7,
+\"intelligence\": 75,
+\"intelligenceStep\": 7,
+\"defense\": 75,
+\"defenseStep\": 7,
+\"agility\": 80,
+\"agilityStep\": 7,
+\"luck\": 70,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"notForSale\": 1
+}
+
+34 Yuan Shao Jun
+
+{
+\"hp\": 99,
+\"hpStep\": 9,
+\"attack\": 80,
+\"attackStep\": 8,
+\"intelligence\": 88,
+\"intelligenceStep\": 8,
+\"defense\": 75,
+\"defenseStep\": 7,
+\"agility\": 62,
+\"agilityStep\": 6,
+\"luck\": 82,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 85,
+\"notForSale\": 1
+}
+
+35 Tian Feng
+
+{
+\"hp\": 102,
+\"hpStep\": 9,
+\"attack\": 80,
+\"attackStep\": 8,
+\"intelligence\": 88,
+\"intelligenceStep\": 8,
+\"defense\": 80,
+\"defenseStep\": 8,
+\"agility\": 62,
+\"agilityStep\": 6,
+\"luck\": 82,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"notForSale\": 1
+}
+
+36 Yan Liang
+
+{
+\"hp\": 90,
+\"hpStep\": 8,
+\"attack\": 88,
+\"attackStep\": 8,
+\"intelligence\": 55,
+\"intelligenceStep\": 6,
+\"defense\": 65,
+\"defenseStep\": 7,
+\"agility\": 55,
+\"agilityStep\": 7,
+\"luck\": 72,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"price\": 1500,
+\"priceStep\": 5
+}
+
+37 Wen Chou
+
+{
+\"hp\": 99,
+\"hpStep\": 8,
+\"attack\": 85,
+\"attackStep\": 8,
+\"intelligence\": 55,
+\"intelligenceStep\": 6,
+\"defense\": 85,
+\"defenseStep\": 8,
+\"agility\": 55,
+\"agilityStep\": 7,
+\"luck\": 75,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"price\": 1500,
+\"priceStep\": 5
+}
+
+38 Chun Yu Qiong
+
+{
+\"hp\": 88,
+\"hpStep\": 9,
+\"attack\": 88,
+\"attackStep\": 9,
+\"intelligence\": 77,
+\"intelligenceStep\": 7,
+\"defense\": 78,
+\"defenseStep\": 7,
+\"agility\": 75,
+\"agilityStep\": 7,
+\"luck\": 70,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"notForSale\": 1
+}
+
+39 Yuan Shao
+
+{
+\"hp\": 100,
+\"hpStep\": 9,
+\"attack\": 82,
+\"attackStep\": 8,
+\"intelligence\": 80,
+\"intelligenceStep\": 8,
+\"defense\": 75,
+\"defenseStep\": 8,
+\"agility\": 70,
+\"agilityStep\": 7,
+\"luck\": 80,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"notForSale\": 1
+}
+
+40 Xiao Qiao
+
+{
+\"hp\": 100,
+\"hpStep\": 9,
+\"attack\": 80,
+\"attackStep\": 9,
+\"intelligence\": 80,
+\"intelligenceStep\": 8,
+\"defense\": 80,
+\"defenseStep\": 8,
+\"agility\": 80,
+\"agilityStep\": 8,
+\"luck\": 85,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"notForSale\": 1
+}
+
+41 Da Qiao
+
+{
+\"hp\": 100,
+\"hpStep\": 9,
+\"attack\": 80,
+\"attackStep\": 9,
+\"intelligence\": 80,
+\"intelligenceStep\": 8,
+\"defense\": 80,
+\"defenseStep\": 8,
+\"agility\": 80,
+\"agilityStep\": 8,
+\"luck\": 85,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"notForSale\": 1
+}
+
+42 Zhen Ji
+
+{
+\"hp\": 90,
+\"hpStep\": 8,
+\"attack\": 80,
+\"attackStep\": 8,
+\"intelligence\": 75,
+\"intelligenceStep\": 7,
+\"defense\": 75,
+\"defenseStep\": 7,
+\"agility\": 85,
+\"agilityStep\": 8,
+\"luck\": 75,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"notForSale\": 1
+}
+
+
+43 Cao Ren
+
+{
+\"hp\": 100,
+\"hpStep\": 10,
+\"attack\": 100,
+\"attackStep\": 10,
+\"intelligence\": 50,
+\"intelligenceStep\": 5,
+\"defense\": 85,
+\"defenseStep\": 9,
+\"agility\": 45,
+\"agilityStep\": 5,
+\"luck\": 66,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 110,
+\"notForSale\": 1
+}
+
+44 Li Dian
+
+{
+\"hp\": 100,
+\"hpStep\": 10,
+\"attack\": 100,
+\"attackStep\": 10,
+\"intelligence\": 50,
+\"intelligenceStep\": 5,
+\"defense\": 85,
+\"defenseStep\": 9,
+\"agility\": 45,
+\"agilityStep\": 5,
+\"luck\": 66,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 110,
+\"notForSale\": 1
+}
+
+45 Le Jin
+
+{
+\"hp\": 100,
+\"hpStep\": 10,
+\"attack\": 100,
+\"attackStep\": 10,
+\"intelligence\": 50,
+\"intelligenceStep\": 5,
+\"defense\": 85,
+\"defenseStep\": 9,
+\"agility\": 45,
+\"agilityStep\": 5,
+\"luck\": 66,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 110,
+\"notForSale\": 1
+}
+
+46 Xiahou Yuan
+
+{
+\"hp\": 100,
+\"hpStep\": 10,
+\"attack\": 100,
+\"attackStep\": 10,
+\"intelligence\": 50,
+\"intelligenceStep\": 5,
+\"defense\": 85,
+\"defenseStep\": 9,
+\"agility\": 45,
+\"agilityStep\": 5,
+\"luck\": 66,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 110,
+\"notForSale\": 1
+}
+
+47 Yu Jin
+
+{
+\"hp\": 100,
+\"hpStep\": 10,
+\"attack\": 100,
+\"attackStep\": 10,
+\"intelligence\": 50,
+\"intelligenceStep\": 5,
+\"defense\": 85,
+\"defenseStep\": 9,
+\"agility\": 45,
+\"agilityStep\": 5,
+\"luck\": 66,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 110,
+\"notForSale\": 1
+}
+
+48 Zhang Xiu
+
+{
+\"hp\": 100,
+\"hpStep\": 10,
+\"attack\": 100,
+\"attackStep\": 10,
+\"intelligence\": 50,
+\"intelligenceStep\": 5,
+\"defense\": 85,
+\"defenseStep\": 9,
+\"agility\": 45,
+\"agilityStep\": 5,
+\"luck\": 66,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 110,
+\"notForSale\": 1
+}
+
+49 Zhang Liao
+
+{
+\"hp\": 100,
+\"hpStep\": 10,
+\"attack\": 100,
+\"attackStep\": 10,
+\"intelligence\": 50,
+\"intelligenceStep\": 5,
+\"defense\": 85,
+\"defenseStep\": 9,
+\"agility\": 45,
+\"agilityStep\": 5,
+\"luck\": 66,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 110,
+\"notForSale\": 1
+}
+
+50 Ma Chao
+
+{
+\"hp\": 95,
+\"hpStep\": 9,
+\"attack\": 90,
+\"attackStep\": 8,
+\"intelligence\": 75,
+\"intelligenceStep\": 7,
+\"defense\": 85,
+\"defenseStep\": 9,
+\"agility\": 75,
+\"agilityStep\": 8,
+\"luck\": 80,
+\"luckStep\": 1,
+\"recoverCost\": 30,
+\"upgradeCost\": 100,
+\"notForSale\": 1
+}

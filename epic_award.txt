@@ -1,0 +1,30 @@
+
+
+
+'["[\"- 贡献战力第一，送孙尚香或者黄金3块儿。\\n- 贡献战力前10的玩家，送银2块儿。\\n- 贡献战力前20的玩家，送铁2块儿。\\n- 贡献战力前50的玩家，送布2块儿，木1块儿。\\n- 所有参与的人，送木1块儿。\\n- 完成最>后一击\\u003e 的人，送吕布或者黄金2块儿。\",\"- N.O. 1 contributor, will get hero Sun Shang Xiang, or 3 gold\\n - Top 10 contributor, will get 2 silver\\n - Top 20 contributor, will get 2 iron\\n - Top 50 contributor, will get 2 Cloth and 1 wood\\n - All participates, will get 1 wood.\\n - The player who does the final attack, will get hero Lv Bu or 2 gold\"]"]'
+
+
+
+'["[\"官方投入500铜币。\\n
+\\n
+全服合力来打吕布，所有投入的铜币连同500铜币，共同进入临时奖池。\\n
+\\n
+打死吕布后:\\n
+\\n
+- 未消耗的铜币在24小时内退还。\\n
+- 消耗的铜币，连同官方的500铜币，按照贡献的攻击比例分发。\\n
+- 最后一击者独拿10%的以上铜币。\\n
+\\n
+以上铜币小活动，每天一次; 每周五一次大活动，送各种道具奖励。\\n
+\\n
+\",\"Everyday at 9pm (Beijing Time):\\n
+\\n
+The system puts in 500 SGT\\n
+\\n
+After killing the boss:\\n
+\\n
+- All unspent SGT will be refunded in 24 hours.\\n
+- All spent SGT plus the 500 from the system, distribute to all participants by damage.\\n
+- The player who gives the final kill gets 10% of the above.\\n
+\\n
+Small event (like this) are hosted everyday; only on Friday, we have big events that give out items and heroes.\"]"]'
